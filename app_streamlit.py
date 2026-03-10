@@ -23,9 +23,10 @@ pax = st.slider("Pax", 0, 348, 100)
 if st.button("prediksi", type="primary"):
 	data_baru = pd.DataFrame([[maskapai, asal,tujuan,durasi,kapasitas_kursi,pax]], columns=["Maskapai", "Asal","Tujuan","Durasi","Kapasitas_Kursi","Pax"])
 	prediksi = model.predict(data_baru)[0]
-	presentase = max(model.predict_proba(data_baru))[0]
+	presentase = max(model.predict_proba(data_baru)[0])
 	st.success(f"model memprediksi **{prediksi}** dengan tingkat keyakinan {presentase*100:.2f}%")
 	st.balloons()
 
 st.divider()
+
 st.caption("dibuat oleh **AVIATION**")
