@@ -1,0 +1,411 @@
+ID_Penerbangan,Maskapai,Asal,Tujuan,Durasi,Kapasitas_Kursi,Pax,Status_Penerbangan
+FL-001,Garuda,Jakarta,Tokyo,7.5,300,285,Tepat Waktu
+FL-002,Lion Air,Surabaya,Singapura,2.2,180,175,Delay
+FL-003,AirAsia,Denpasar,Kuala Lumpur,3.0,180,160,Tepat Waktu
+FL-004,Citilink,Medan,Jakarta,2.1,180,172,Tepat Waktu
+FL-005,Garuda,Jakarta,Sydney,7.0,300,290,Tepat Waktu
+FL-006,Lion Air,Surabaya,Denpasar,0.9,215,210,Tepat Waktu
+FL-007,AirAsia,Jakarta,Singapura,1.8,180,178,Dibatalkan
+FL-008,Citilink,Surabaya,Jakarta,1.5,180,155,Tepat Waktu
+FL-009,Garuda,Denpasar,Tokyo,6.8,300,275,Delay
+FL-010,Lion Air,Medan,Kuala Lumpur,1.2,180,170,Tepat Waktu
+FL-011,AirAsia,Jakarta,Sydney,7.2,180,165,Tepat Waktu
+FL-012,Citilink,Surabaya,Singapura,2.3,180,140,Delay
+FL-013,Garuda,Jakarta,Kuala Lumpur,2.0,300,295,Tepat Waktu
+FL-014,Lion Air,Denpasar,Jakarta,1.9,215,200,Tepat Waktu
+FL-015,AirAsia,Medan,Singapura,1.5,180,177,Tepat Waktu
+FL-016,Citilink,Jakarta,Tokyo,7.8,180,168,Tepat Waktu
+FL-017,Garuda,Surabaya,Sydney,6.5,300,288,Tepat Waktu
+FL-018,Lion Air,Jakarta,Denpasar,1.8,215,212,Delay
+FL-019,AirAsia,Surabaya,Kuala Lumpur,2.5,180,150,Tepat Waktu
+FL-020,Citilink,Denpasar,Singapura,2.6,180,179,Tepat Waktu
+FL-021,Garuda,Medan,Jakarta,2.2,300,260,Dibatalkan
+FL-022,Lion Air,Jakarta,Tokyo,7.4,215,205,Tepat Waktu
+FL-023,AirAsia,Surabaya,Sydney,6.9,180,170,Tepat Waktu
+FL-024,Citilink,Jakarta,Kuala Lumpur,2.1,180,165,Tepat Waktu
+FL-025,Garuda,Denpasar,Jakarta,1.8,300,292,Tepat Waktu
+FL-026,Lion Air,Medan,Singapura,1.4,180,175,Tepat Waktu
+FL-027,AirAsia,Jakarta,Tokyo,7.6,180,155,Delay
+FL-028,Citilink,Surabaya,Sydney,7.0,180,145,Tepat Waktu
+FL-029,Garuda,Jakarta,Singapura,1.7,300,298,Tepat Waktu
+FL-030,Lion Air,Denpasar,Kuala Lumpur,3.1,215,208,Tepat Waktu
+FL-031,AirAsia,Medan,Jakarta,2.2,180,170,Tepat Waktu
+FL-032,Citilink,Jakarta,Denpasar,1.9,180,172,Delay
+FL-033,Garuda,Surabaya,Tokyo,7.2,300,280,Tepat Waktu
+FL-034,Lion Air,Jakarta,Sydney,7.1,215,195,Tepat Waktu
+FL-035,AirAsia,Denpasar,Singapura,2.5,180,168,Tepat Waktu
+FL-036,Citilink,Medan,Kuala Lumpur,1.3,180,160,Tepat Waktu
+FL-037,Garuda,Jakarta,Jakarta,0.0,300,0,Dibatalkan
+FL-038,Lion Air,Surabaya,Jakarta,1.6,215,210,Tepat Waktu
+FL-039,AirAsia,Jakarta,Denpasar,1.9,180,175,Tepat Waktu
+FL-040,Citilink,Denpasar,Tokyo,7.0,180,150,Delay
+FL-041,Garuda,Medan,Sydney,8.5,300,270,Tepat Waktu
+FL-042,Lion Air,Jakarta,Singapura,1.8,215,200,Tepat Waktu
+FL-043,AirAsia,Surabaya,Jakarta,1.5,180,178,Tepat Waktu
+FL-044,Citilink,Medan,Singapura,1.6,180,165,Tepat Waktu
+FL-045,Garuda,Denpasar,Kuala Lumpur,2.8,300,285,Delay
+FL-046,Lion Air,Jakarta,Sydney,7.3,215,210,Tepat Waktu
+FL-047,AirAsia,Surabaya,Tokyo,7.7,180,160,Tepat Waktu
+FL-048,Citilink,Denpasar,Jakarta,1.9,180,172,Tepat Waktu
+FL-049,Garuda,Medan,Tokyo,8.0,300,255,Tepat Waktu
+FL-050,Lion Air,Surabaya,Kuala Lumpur,2.6,215,190,Delay
+FL-051,AirAsia,Jakarta,Sydney,7.2,180,175,Tepat Waktu
+FL-052,Citilink,Denpasar,Singapura,2.4,180,166,Tepat Waktu
+FL-053,Garuda,Surabaya,Jakarta,1.5,300,290,Tepat Waktu
+FL-054,Lion Air,Medan,Jakarta,2.3,215,205,Dibatalkan
+FL-055,AirAsia,Jakarta,Singapura,1.8,180,177,Tepat Waktu
+FL-056,Citilink,Surabaya,Kuala Lumpur,2.7,180,158,Tepat Waktu
+FL-057,Garuda,Denpasar,Sydney,6.4,300,282,Tepat Waktu
+FL-058,Lion Air,Jakarta,Jakarta,0.0,215,0,Tepat Waktu
+FL-059,AirAsia,Medan,Tokyo,8.2,180,165,Delay
+FL-060,Citilink,Surabaya,Denpasar,1.0,180,175,Tepat Waktu
+FL-061,Batik Air,Jakarta,Singapura,"1,9",180,172,Tepat Waktu
+FL-062,Garuda,Surabaya,Tokyo,"7,3",300,280,Delay
+FL-063,AirAsia,Medan,Kuala Lumpur,"1,1",180,165,Tepat Waktu
+FL-064,Lion Air,Denpasar,Sydney,"6,8",215,200,Tepat Waktu
+FL-065,Citilink,Jakarta,Jakarta,0,180,0,Dibatalkan
+FL-066,Garuda,Medan,Jakarta,"2,4",300,290,Tepat Waktu
+FL-067,Batik Air,Surabaya,Singapura,"2,1",180,150,Delay
+FL-068,AirAsia,Jakarta,Tokyo,"7,9",180,177,Tepat Waktu
+FL-069,Lion Air,Denpasar,Kuala Lumpur,"2,9",215,210,Tepat Waktu
+FL-070,Citilink,Surabaya,Sydney,"7,2",180,160,Tepat Waktu
+FL-071,Garuda,Jakarta,Singapore,"1,8",300,275,Tepat Waktu
+FL-072,Batik Air,Medan,Jakarta,"2,2",180,170,Delay
+FL-073,AirAsia,Surabaya,Denpasar,"0,8",180,179,Tepat Waktu
+FL-074,Lion Air,Jakarta,Tokyo,"7,5",215,195,Tepat Waktu
+FL-075,Citilink,Denpasar,Jakarta,"1,9",180,168,Tepat Waktu
+FL-076,Garuda,Surabaya,Kuala Lumpur,"2,5",300,285,Tepat Waktu
+FL-077,Batik Air,Jakarta,Sydney,"7,1",180,155,Delay
+FL-078,AirAsia,Medan,Singapura,"1,4",180,172,Tepat Waktu
+FL-079,Lion Air,Jakarta,Denpasar,"1,8",215,212,Tepat Waktu
+FL-080,Citilink,Surabaya,Tokyo,"7,4",180,140,Dibatalkan
+FL-081,Garuda,Denpasar,Singapore,"2,6",300,298,Tepat Waktu
+FL-082,Batik Air,Jakarta,Kuala Lumpur,2,180,176,Tepat Waktu
+FL-083,AirAsia,Surabaya,Jakarta,"1,5",180,170,Tepat Waktu
+FL-084,Lion Air,Medan,Sydney,"8,2",215,188,Delay
+FL-085,Citilink,Jakarta,Tokyo,"7,7",180,165,Tepat Waktu
+FL-086,Garuda,Surabaya,Denpasar,1,300,290,Tepat Waktu
+FL-087,Batik Air,Denpasar,Singapura,"2,5",180,174,Tepat Waktu
+FL-088,AirAsia,Jakarta,Jakarta,0,180,0,Dibatalkan
+FL-089,Lion Air,Medan,Kuala Lumpur,"1,2",215,205,Tepat Waktu
+FL-090,Citilink,Jakarta,Sydney,7,180,158,Delay
+FL-091,Garuda,Surabaya,Singapore,"2,3",300,282,Tepat Waktu
+FL-092,Batik Air,Jakarta,Tokyo,"7,6",180,171,Tepat Waktu
+FL-093,AirAsia,Denpasar,Jakarta,"1,8",180,178,Tepat Waktu
+FL-094,Lion Air,Surabaya,Kuala Lumpur,"2,7",215,190,Tepat Waktu
+FL-095,Citilink,Medan,Jakarta,"2,3",180,173,Delay
+FL-096,Garuda,Jakarta,Sydney,"6,9",300,289,Tepat Waktu
+FL-097,Batik Air,Surabaya,Denpasar,"0,9",180,175,Tepat Waktu
+FL-098,AirAsia,Medan,Singapura,"1,5",180,160,Tepat Waktu
+FL-099,Lion Air,Jakarta,Tokyo,"7,8",215,208,Tepat Waktu
+FL-100,Citilink,Denpasar,Kuala Lumpur,"3,1",180,169,Tepat Waktu
+FL-101,Garuda,Jakarta,Singapore,"1,7",300,295,Delay
+FL-102,Batik Air,Surabaya,Jakarta,"1,6",180,174,Tepat Waktu
+FL-103,AirAsia,Medan,Sydney,"8,4",180,150,Tepat Waktu
+FL-104,Lion Air,Jakarta,Singapura,"1,8",215,210,Tepat Waktu
+FL-105,Citilink,Surabaya,Kuala Lumpur,"2,6",180,155,Dibatalkan
+FL-106,Garuda,Denpasar,Tokyo,"6,5",300,287,Tepat Waktu
+FL-107,Batik Air,Jakarta,Jakarta,0,180,0,Tepat Waktu
+FL-108,AirAsia,Surabaya,Sydney,7,180,162,Delay
+FL-109,Lion Air,Medan,Jakarta,"2,1",215,200,Tepat Waktu
+FL-110,Citilink,Jakarta,Singapura,"1,9",180,178,Tepat Waktu
+FL-111,Garuda,Jakarta,Seoul,"7,2",300,291,Tepat Waktu
+FL-112,Lion Air,Surabaya,Makassar,"1,5",215,180,Delay
+FL-113,AirAsia,Denpasar,Perth,"3,8",180,175,Tepat Waktu
+FL-114,Citilink,Medan,Yogyakarta,"2,5",180,162,Tepat Waktu
+FL-115,Batik Air,Jakarta,Bangkok,"3,5",180,170,Tepat Waktu
+FL-116,Garuda,Surabaya,Hong Kong,"4,8",300,250,Dibatalkan
+FL-117,Lion Air,Makassar,Jakarta,"2,2",215,210,Tepat Waktu
+FL-118,AirAsia,Jakarta,Bali,"1,9",180,180,Tepat Waktu
+FL-119,Citilink,Surabaya,Balikpapan,"1,4",180,145,Delay
+FL-120,Batik Air,Denpasar,Jakarta,"1,9",180,178,Tepat Waktu
+FL-121,Garuda,Jakarta,London,"14,2",300,280,Tepat Waktu
+FL-122,Lion Air,Medan,Batam,"1,1",215,195,Tepat Waktu
+FL-123,AirAsia,Surabaya,Singapura,"2,2",180,160,Delay
+FL-124,Citilink,Jakarta,Palembang,1,180,172,Tepat Waktu
+FL-125,Batik Air,Makassar,Surabaya,"1,5",180,165,Tepat Waktu
+FL-126,Garuda,Denpasar,Tokyo,7,300,295,Tepat Waktu
+FL-127,Lion Air,Jakarta,Solo,"1,1",215,200,Delay
+FL-128,AirAsia,Medan,Kuala Lumpur,"1,2",180,155,Tepat Waktu
+FL-129,Citilink,Surabaya,Denpasar,"0,9",180,179,Tepat Waktu
+FL-130,Batik Air,Jakarta,Sydney,"7,3",180,140,Dibatalkan
+FL-131,Garuda,Jakarta,Amsterdam,"15,5",300,265,Tepat Waktu
+FL-132,Lion Air,Surabaya,Jakarta,"1,5",215,212,Tepat Waktu
+FL-133,AirAsia,Jakarta,Ho Chi Minh,"3,1",180,168,Tepat Waktu
+FL-134,Citilink,Medan,Jakarta,"2,2",180,170,Delay
+FL-135,Batik Air,Denpasar,Melbourne,"5,8",180,174,Tepat Waktu
+FL-136,Garuda,Jakarta,Tokyo,"7,5",300,288,Tepat Waktu
+FL-137,Lion Air,Surabaya,Bali,"0,9",215,185,Tepat Waktu
+FL-138,AirAsia,Makassar,Kuala Lumpur,"3,2",180,150,Tepat Waktu
+FL-139,Citilink,Jakarta,Singapura,"1,8",180,176,Delay
+FL-140,Batik Air,Surabaya,Jakarta,"1,5",180,169,Tepat Waktu
+FL-141,Garuda,Medan,Jeddah,"9,8",300,299,Tepat Waktu
+FL-142,Lion Air,Jakarta,Surabaya,"1,5",215,210,Dibatalkan
+FL-143,AirAsia,Denpasar,Jakarta,"1,9",180,177,Tepat Waktu
+FL-144,Citilink,Makassar,Jakarta,"2,3",180,158,Tepat Waktu
+FL-145,Batik Air,Jakarta,Yogyakarta,"1,2",180,175,Tepat Waktu
+FL-146,Garuda,Surabaya,Sydney,"6,8",300,275,Delay
+FL-147,Lion Air,Medan,Jakarta,"2,2",215,205,Tepat Waktu
+FL-148,AirAsia,Jakarta,Manila,4,180,145,Tepat Waktu
+FL-149,Citilink,Surabaya,Balikpapan,"1,3",180,160,Tepat Waktu
+FL-150,Batik Air,Denpasar,Singapore,"2,5",180,173,Tepat Waktu
+FL-151,Garuda,Jakarta,Seoul,"7,1",300,282,Delay
+FL-152,Lion Air,Surabaya,Pontianak,"1,8",215,190,Tepat Waktu
+FL-153,AirAsia,Medan,Jakarta,"2,2",180,170,Tepat Waktu
+FL-154,Citilink,Jakarta,Padang,"1,5",180,166,Tepat Waktu
+FL-155,Batik Air,Makassar,Bali,"1,4",180,178,Tepat Waktu
+FL-156,Garuda,Denpasar,Hong Kong,"4,9",300,260,Dibatalkan
+FL-157,Lion Air,Jakarta,Batam,"1,6",215,208,Tepat Waktu
+FL-158,AirAsia,Surabaya,Kuala Lumpur,"2,4",180,155,Delay
+FL-159,Citilink,Medan,Jakarta,"2,2",180,174,Tepat Waktu
+FL-160,Batik Air,Jakarta,Singapore,"1,8",180,179,Tepat Waktu
+FL-161,Garuda,Jakarta,Doha,"8,5",300,270,Tepat Waktu
+FL-162,Lion Air,Surabaya,Jakarta,"1,5",215,200,Tepat Waktu
+FL-163,AirAsia,Denpasar,Perth,"3,7",180,165,Tepat Waktu
+FL-164,Citilink,Jakarta,Semarang,"1,1",180,150,Delay
+FL-165,Batik Air,Medan,Kuala Lumpur,"1,2",180,172,Tepat Waktu
+FL-166,Garuda,Surabaya,Tokyo,"7,4",300,288,Tepat Waktu
+FL-167,Lion Air,Jakarta,Bali,"1,9",215,212,Tepat Waktu
+FL-168,AirAsia,Makassar,Jakarta,"2,2",180,177,Dibatalkan
+FL-169,Citilink,Denpasar,Jakarta,"1,9",180,168,Tepat Waktu
+FL-170,Batik Air,Surabaya,Singapore,"2,2",180,170,Tepat Waktu
+FL-171,Garuda,Jakarta,Taipei,"5,5",300,240,Delay
+FL-172,Lion Air,Medan,Jakarta,"2,2",215,205,Tepat Waktu
+FL-173,AirAsia,Jakarta,Bangkok,"3,4",180,162,Tepat Waktu
+FL-174,Citilink,Surabaya,Makassar,"1,6",180,155,Tepat Waktu
+FL-175,Batik Air,Denpasar,Jakarta,"1,9",180,178,Tepat Waktu
+FL-176,Garuda,Jakarta,Melbourne,"6,5",300,290,Tepat Waktu
+FL-177,Lion Air,Surabaya,Denpasar,"0,9",215,210,Delay
+FL-178,AirAsia,Medan,Kuala Lumpur,"1,2",180,169,Tepat Waktu
+FL-179,Citilink,Jakarta,Solo,"1,1",180,174,Tepat Waktu
+FL-180,Batik Air,Makassar,Jakarta,"2,2",180,160,Tepat Waktu
+FL-181,Garuda,Jakarta,Paris,"14,8",300,255,Dibatalkan
+FL-182,Lion Air,Surabaya,Jakarta,"1,5",215,200,Tepat Waktu
+FL-183,AirAsia,Denpasar,Jakarta,"1,9",180,175,Tepat Waktu
+FL-184,Citilink,Jakarta,Palembang,"1,1",180,167,Tepat Waktu
+FL-185,Batik Air,Medan,Jakarta,"2,2",180,171,Delay
+FL-186,Garuda,Surabaya,Hong Kong,"4,7",300,280,Tepat Waktu
+FL-187,Lion Air,Jakarta,Surabaya,"1,5",215,210,Tepat Waktu
+FL-188,AirAsia,Makassar,Bali,"1,4",180,165,Tepat Waktu
+FL-189,Citilink,Denpasar,Singapura,"2,5",180,173,Tepat Waktu
+FL-190,Batik Air,Jakarta,Sydney,"7,1",180,150,Delay
+FL-191,Garuda,Medan,Jeddah,"9,9",300,298,Tepat Waktu
+FL-192,Lion Air,Surabaya,Jakarta,"1,6",215,195,Tepat Waktu
+FL-193,AirAsia,Jakarta,Tokyo,"7,8",180,170,Tepat Waktu
+FL-194,Citilink,Denpasar,Jakarta,"1,9",180,177,Dibatalkan
+FL-195,Batik Air,Makassar,Surabaya,"1,5",180,172,Tepat Waktu
+FL-196,Garuda,Jakarta,Singapore,"1,8",300,285,Tepat Waktu
+FL-197,Lion Air,Surabaya,Balikpapan,"1,3",215,180,Delay
+FL-198,AirAsia,Medan,Kuala Lumpur,"1,2",180,160,Tepat Waktu
+FL-199,Citilink,Jakarta,Bali,"1,9",180,174,Tepat Waktu
+FL-200,Batik Air,Denpasar,Perth,"3,9",180,166,Tepat Waktu
+FL-201,Garuda,Jakarta,Tokyo,"7,5",300,290,Tepat Waktu
+FL-202,Lion Air,Surabaya,Jakarta,"1,5",215,212,Delay
+FL-203,AirAsia,Denpasar,Kuala Lumpur,3,180,170,Tepat Waktu
+FL-204,Citilink,Medan,Batam,"1,1",180,165,Tepat Waktu
+FL-205,Batik Air,Jakarta,Bangkok,"3,4",180,175,Tepat Waktu
+FL-206,Garuda,Makassar,Jakarta,"2,2",300,280,Dibatalkan
+FL-207,Lion Air,Surabaya,Singapore,"2,2",215,190,Tepat Waktu
+FL-208,AirAsia,Jakarta,Seoul,"7,1",180,160,Delay
+FL-209,Citilink,Denpasar,Jakarta,"1,9",180,172,Tepat Waktu
+FL-210,Batik Air,Medan,Jakarta,"2,3",180,168,Tepat Waktu
+FL-211,Qatar Airways,Jakarta,Doha,"8,5",350,340,Tepat Waktu
+FL-212,Emirates,Surabaya,Dubai,9,350,310,Delay
+FL-213,Scoot,Denpasar,Singapore,"2,5",180,175,Tepat Waktu
+FL-214,Garuda,Jakarta,Sydney,7,300,285,Tepat Waktu
+FL-215,AirAsia,Medan,Bangkok,"2,2",180,160,Tepat Waktu
+FL-216,Lion Air,Jakarta,Makassar,"2,3",215,200,Delay
+FL-217,Citilink,Surabaya,Lombok,1,180,170,Tepat Waktu
+FL-218,Batik Air,Jakarta,Taipei,"5,2",180,155,Tepat Waktu
+FL-219,Garuda,Denpasar,Tokyo,"7,5",300,292,Tepat Waktu
+FL-220,AirAsia,Jakarta,Kuala Lumpur,2,180,178,Dibatalkan
+FL-221,Lion Air,Surabaya,Jakarta,"1,5",215,210,Tepat Waktu
+FL-222,Citilink,Medan,Jakarta,"2,2",180,165,Delay
+FL-223,Batik Air,Makassar,Jakarta,"2,4",180,172,Tepat Waktu
+FL-224,Qatar Airways,Jakarta,London,14,350,330,Tepat Waktu
+FL-225,Emirates,Jakarta,Paris,"13,5",350,345,Tepat Waktu
+FL-226,Scoot,Surabaya,Singapore,"2,2",180,150,Delay
+FL-227,Garuda,Jakarta,Seoul,"7,1",300,280,Tepat Waktu
+FL-228,AirAsia,Denpasar,Perth,"3,8",180,170,Tepat Waktu
+FL-229,Lion Air,Medan,Batam,"1,1",215,190,Tepat Waktu
+FL-230,Citilink,Jakarta,Palembang,1,180,177,Tepat Waktu
+FL-231,Batik Air,Surabaya,Denpasar,"0,9",180,179,Tepat Waktu
+FL-232,Garuda,Jakarta,Amsterdam,15,300,260,Delay
+FL-233,AirAsia,Makassar,Singapore,3,180,165,Tepat Waktu
+FL-234,Lion Air,Jakarta,Bali,"1,9",215,212,Tepat Waktu
+FL-235,Citilink,Medan,Kuala Lumpur,"1,2",180,158,Tepat Waktu
+FL-236,Batik Air,Denpasar,Sydney,"6,5",180,145,Dibatalkan
+FL-237,Qatar Airways,Denpasar,Doha,"9,5",350,342,Tepat Waktu
+FL-238,Emirates,Surabaya,Dubai,"8,8",350,320,Tepat Waktu
+FL-239,Scoot,Jakarta,Singapore,"1,8",180,172,Delay
+FL-240,Garuda,Surabaya,Hong Kong,"4,9",300,288,Tepat Waktu
+FL-241,AirAsia,Jakarta,Manila,"4,1",180,150,Tepat Waktu
+FL-242,Lion Air,Medan,Jakarta,"2,2",215,205,Tepat Waktu
+FL-243,Citilink,Jakarta,Yogyakarta,"1,1",180,176,Tepat Waktu
+FL-244,Batik Air,Surabaya,Makassar,"1,6",180,168,Delay
+FL-245,Garuda,Jakarta,Tokyo,"7,6",300,295,Tepat Waktu
+FL-246,AirAsia,Denpasar,Ho Chi Minh,"3,2",180,140,Tepat Waktu
+FL-247,Lion Air,Jakarta,Surabaya,"1,5",215,210,Tepat Waktu
+FL-248,Citilink,Medan,Singapore,"1,4",180,173,Tepat Waktu
+FL-249,Batik Air,Makassar,Bali,"1,3",180,177,Delay
+FL-250,Qatar Airways,Jakarta,London,"13,8",350,335,Tepat Waktu
+FL-251,Emirates,Jakarta,Dubai,"8,5",350,348,Tepat Waktu
+FL-252,Scoot,Denpasar,Melbourne,"5,9",180,165,Tepat Waktu
+FL-253,Garuda,Surabaya,Singapore,"2,3",300,290,Dibatalkan
+FL-254,AirAsia,Jakarta,Bangkok,"3,4",180,179,Tepat Waktu
+FL-255,Lion Air,Medan,Kuala Lumpur,"1,2",215,200,Tepat Waktu
+FL-256,Citilink,Jakarta,Padang,"1,5",180,166,Delay
+FL-257,Batik Air,Denpasar,Jakarta,"1,9",180,174,Tepat Waktu
+FL-258,Garuda,Jakarta,Sydney,"7,2",300,282,Tepat Waktu
+FL-259,AirAsia,Surabaya,Kuala Lumpur,"2,5",180,155,Tepat Waktu
+FL-260,Lion Air,Jakarta,Tokyo,"7,8",215,198,Tepat Waktu
+FL-261,Citilink,Makassar,Jakarta,"2,2",180,170,Delay
+FL-262,Batik Air,Surabaya,Singapore,"2,1",180,176,Tepat Waktu
+FL-263,Qatar Airways,Denpasar,Doha,"9,2",350,320,Tepat Waktu
+FL-264,Emirates,Jakarta,London,"14,5",350,340,Tepat Waktu
+FL-265,Scoot,Jakarta,Singapore,"1,8",180,168,Tepat Waktu
+FL-266,Garuda,Medan,Jeddah,10,300,298,Tepat Waktu
+FL-267,AirAsia,Surabaya,Denpasar,"0,9",180,175,Dibatalkan
+FL-268,Lion Air,Jakarta,Medan,"2,2",215,212,Tepat Waktu
+FL-269,Citilink,Denpasar,Jakarta,"1,9",180,179,Delay
+FL-270,Batik Air,Jakarta,Tokyo,"7,5",180,165,Tepat Waktu
+FL-271,Garuda,Jakarta,Seoul,"7,2",300,288,Tepat Waktu
+FL-272,Singapore Airlines,Surabaya,Singapore,"2,2",250,245,Tepat Waktu
+FL-273,AirAsia,Denpasar,Perth,"3,8",180,170,Delay
+FL-274,Lion Air,Medan,Jakarta,"2,2",215,195,Tepat Waktu
+FL-275,Citilink,Jakarta,Bali,"1,9",180,180,Tepat Waktu
+FL-276,Batik Air,Surabaya,Makassar,"1,5",180,165,Tepat Waktu
+FL-277,Qatar Airways,Jakarta,Doha,"8,4",350,342,Tepat Waktu
+FL-278,Emirates,Jakarta,Dubai,"8,6",350,330,Delay
+FL-279,Scoot,Surabaya,Singapore,"2,1",180,150,Tepat Waktu
+FL-280,Garuda,Denpasar,Tokyo,"7,4",300,290,Tepat Waktu
+FL-281,AirAsia,Jakarta,Kuala Lumpur,2,180,175,Dibatalkan
+FL-282,Lion Air,Medan,Batam,"1,2",215,210,Tepat Waktu
+FL-283,Citilink,Surabaya,Denpasar,"0,9",180,178,Tepat Waktu
+FL-284,Batik Air,Jakarta,Bangkok,"3,5",180,160,Delay
+FL-285,Garuda,Makassar,Jakarta,"2,3",300,285,Tepat Waktu
+FL-286,Singapore Airlines,Jakarta,Singapore,"1,8",250,250,Tepat Waktu
+FL-287,AirAsia,Surabaya,Johor Bahru,"2,4",180,140,Tepat Waktu
+FL-288,Lion Air,Jakarta,Solo,"1,1",215,200,Tepat Waktu
+FL-289,Citilink,Medan,Yogyakarta,"2,5",180,155,Delay
+FL-290,Batik Air,Denpasar,Sydney,"6,4",180,172,Tepat Waktu
+FL-291,Qatar Airways,Jakarta,London,"14,2",350,310,Tepat Waktu
+FL-292,Emirates,Surabaya,Paris,"13,8",350,345,Tepat Waktu
+FL-293,Scoot,Jakarta,Singapore,"1,9",180,177,Tepat Waktu
+FL-294,Garuda,Jakarta,Amsterdam,"15,2",300,275,Delay
+FL-295,AirAsia,Denpasar,Kuala Lumpur,3,180,168,Tepat Waktu
+FL-296,Lion Air,Surabaya,Jakarta,"1,5",215,212,Tepat Waktu
+FL-297,Citilink,Jakarta,Palembang,"1,1",180,170,Tepat Waktu
+FL-298,Batik Air,Medan,Jakarta,"2,3",180,179,Dibatalkan
+FL-299,Garuda,Surabaya,Hong Kong,"4,8",300,260,Tepat Waktu
+FL-300,AirAsia,Jakarta,Manila,"4,2",180,158,Tepat Waktu
+FL-301,Lion Air,Makassar,Bali,"1,4",215,205,Delay
+FL-302,Citilink,Denpasar,Jakarta,"1,9",180,176,Tepat Waktu
+FL-303,Batik Air,Jakarta,Taipei,"5,3",180,165,Tepat Waktu
+FL-304,Singapore Airlines,Denpasar,Singapore,"2,6",250,240,Tepat Waktu
+FL-305,Garuda,Jakarta,Sydney,"7,1",300,294,Tepat Waktu
+FL-306,AirAsia,Medan,Kuala Lumpur,"1,2",180,172,Tepat Waktu
+FL-307,Lion Air,Surabaya,Balikpapan,"1,4",215,188,Delay
+FL-308,Citilink,Jakarta,Padang,"1,6",180,174,Tepat Waktu
+FL-309,Batik Air,Surabaya,Singapore,"2,2",180,169,Tepat Waktu
+FL-310,Qatar Airways,Jakarta,Milan,"13,5",350,320,Tepat Waktu
+FL-311,Emirates,Jakarta,Dubai,"8,5",350,338,Tepat Waktu
+FL-312,Scoot,Denpasar,Melbourne,"5,8",180,170,Tepat Waktu
+FL-313,Garuda,Surabaya,Tokyo,"7,5",300,280,Delay
+FL-314,AirAsia,Jakarta,Bali,"1,9",180,180,Tepat Waktu
+FL-315,Lion Air,Medan,Jakarta,"2,2",215,200,Tepat Waktu
+FL-316,Citilink,Jakarta,Semarang,"1,1",180,150,Dibatalkan
+FL-317,Batik Air,Denpasar,Jakarta,"1,9",180,177,Tepat Waktu
+FL-318,Garuda,Jakarta,Seoul,"7,2",300,291,Tepat Waktu
+FL-319,AirAsia,Surabaya,Kuala Lumpur,"2,5",180,162,Delay
+FL-320,Lion Air,Jakarta,Tokyo,"7,8",215,205,Tepat Waktu
+FL-321,Citilink,Makassar,Jakarta,"2,2",180,173,Tepat Waktu
+FL-322,Batik Air,Medan,Singapore,"1,4",180,168,Tepat Waktu
+FL-323,Singapore Airlines,Jakarta,Singapore,"1,8",250,248,Tepat Waktu
+FL-324,Garuda,Denpasar,Hong Kong,"4,9",300,275,Tepat Waktu
+FL-325,AirAsia,Jakarta,Ho Chi Minh,"3,1",180,145,Delay
+FL-326,Lion Air,Surabaya,Bali,"0,9",215,210,Tepat Waktu
+FL-327,Citilink,Jakarta,Yogyakarta,"1,1",180,178,Tepat Waktu
+FL-328,Batik Air,Makassar,Surabaya,"1,5",180,170,Tepat Waktu
+FL-329,Qatar Airways,Jakarta,Doha,"8,4",350,345,Tepat Waktu
+FL-330,Emirates,Surabaya,Dubai,"8,9",350,315,Dibatalkan
+FL-331,Scoot,Denpasar,Singapore,"2,5",180,179,Tepat Waktu
+FL-332,Garuda,Jakarta,Sydney,7,300,288,Delay
+FL-333,AirAsia,Medan,Bangkok,"2,2",180,165,Tepat Waktu
+FL-334,Lion Air,Jakarta,Makassar,"2,3",215,208,Tepat Waktu
+FL-335,Citilink,Surabaya,Lombok,1,180,175,Tepat Waktu
+FL-336,Batik Air,Jakarta,Taipei,"5,2",180,158,Tepat Waktu
+FL-337,Garuda,Denpasar,Tokyo,"7,5",300,292,Tepat Waktu
+FL-338,AirAsia,Jakarta,Kuala Lumpur,2,180,170,Delay
+FL-339,Lion Air,Surabaya,Jakarta,"1,5",215,214,Tepat Waktu
+FL-340,Citilink,Medan,Jakarta,"2,2",180,168,Tepat Waktu
+FL-341,Batik Air,Makassar,Jakarta,"2,4",180,174,Tepat Waktu
+FL-342,Singapore Airlines,Jakarta,Singapore,"1,8",250,250,Tepat Waktu
+FL-343,Garuda,Medan,Jeddah,"9,8",300,295,Tepat Waktu
+FL-344,AirAsia,Surabaya,Denpasar,"0,8",180,179,Dibatalkan
+FL-345,Lion Air,Jakarta,Batam,"1,6",215,200,Tepat Waktu
+FL-346,Citilink,Denpasar,Jakarta,"1,9",180,177,Delay
+FL-347,Batik Air,Jakarta,Tokyo,"7,6",180,171,Tepat Waktu
+FL-348,Qatar Airways,Jakarta,London,"14,1",350,338,Tepat Waktu
+FL-349,Emirates,Surabaya,Dubai,"8,8",350,325,Tepat Waktu
+FL-350,Scoot,Jakarta,Singapore,"1,8",180,172,Tepat Waktu
+FL-351,Garuda,Surabaya,Hong Kong,"4,9",300,282,Tepat Waktu
+FL-352,AirAsia,Jakarta,Manila,"4,1",180,150,Delay
+FL-353,Lion Air,Medan,Jakarta,"2,2",215,205,Tepat Waktu
+FL-354,Citilink,Jakarta,Yogyakarta,"1,1",180,176,Tepat Waktu
+FL-355,Batik Air,Surabaya,Makassar,"1,6",180,168,Tepat Waktu
+FL-356,Garuda,Jakarta,Tokyo,"7,6",300,295,Tepat Waktu
+FL-357,AirAsia,Denpasar,Ho Chi Minh,"3,2",180,140,Dibatalkan
+FL-358,Lion Air,Jakarta,Surabaya,"1,5",215,210,Tepat Waktu
+FL-359,Citilink,Medan,Singapore,"1,4",180,173,Delay
+FL-360,Batik Air,Makassar,Bali,"1,3",180,177,Tepat Waktu
+FL-361,Garuda,Jakarta,Seoul,"7,1",300,288,Tepat Waktu
+FL-362,Singapore Airlines,Surabaya,Singapore,"2,3",250,240,Tepat Waktu
+FL-363,AirAsia,Jakarta,Bangkok,"3,5",180,165,Delay
+FL-364,Lion Air,Medan,Kuala Lumpur,"1,2",215,210,Tepat Waktu
+FL-365,Citilink,Jakarta,Padang,"1,5",180,172,Tepat Waktu
+FL-366,Batik Air,Denpasar,Jakarta,"1,9",180,179,Tepat Waktu
+FL-367,Qatar Airways,Jakarta,Doha,"8,5",350,340,Tepat Waktu
+FL-368,Emirates,Jakarta,Dubai,"8,6",350,335,Dibatalkan
+FL-369,Scoot,Surabaya,Singapore,"2,2",180,155,Tepat Waktu
+FL-370,Garuda,Denpasar,Tokyo,"7,4",300,290,Delay
+FL-371,Japan Airlines,Jakarta,Tokyo,"7,5",300,295,Tepat Waktu
+FL-372,Turkish Airlines,Surabaya,Istanbul,12,350,320,Delay
+FL-373,Garuda,Denpasar,Sydney,"6,2",300,280,Tepat Waktu
+FL-374,Lion Air,Jakarta,Makassar,"2,3",215,210,Tepat Waktu
+FL-375,AirAsia,Medan,Kuala Lumpur,"1,2",180,175,Tepat Waktu
+FL-376,Citilink,Jakarta,Balikpapan,2,180,160,Dibatalkan
+FL-377,Batik Air,Surabaya,Singapore,"2,1",180,177,Tepat Waktu
+FL-378,Qatar Airways,Jakarta,Doha,"8,5",350,340,Tepat Waktu
+FL-379,Emirates,Denpasar,Dubai,"9,2",350,310,Delay
+FL-380,Scoot,Jakarta,Singapore,"1,8",180,170,Tepat Waktu
+FL-381,Garuda,Surabaya,Jakarta,"1,5",300,290,Tepat Waktu
+FL-382,Lion Air,Medan,Jakarta,"2,2",215,200,Delay
+FL-383,AirAsia,Jakarta,Bangkok,"3,5",180,165,Tepat Waktu
+FL-384,Citilink,Denpasar,Jakarta,"1,9",180,178,Tepat Waktu
+FL-385,Batik Air,Makassar,Surabaya,"1,5",180,172,Tepat Waktu
+FL-386,Japan Airlines,Jakarta,Osaka,"7,2",300,285,Tepat Waktu
+FL-387,Turkish Airlines,Jakarta,Antalya,"13,5",350,300,Dibatalkan
+FL-388,Garuda,Medan,Jeddah,"9,8",300,298,Tepat Waktu
+FL-389,Lion Air,Surabaya,Bali,"0,9",215,212,Tepat Waktu
+FL-390,AirAsia,Jakarta,Seoul,"7,1",180,160,Delay
+FL-391,Citilink,Jakarta,Semarang,"1,1",180,175,Tepat Waktu
+FL-392,Batik Air,Denpasar,Perth,"3,8",180,166,Tepat Waktu
+FL-393,Qatar Airways,Surabaya,Doha,9,350,345,Tepat Waktu
+FL-394,Emirates,Jakarta,London,"14,5",350,335,Tepat Waktu
+FL-395,Scoot,Denpasar,Singapore,"2,5",180,179,Delay
+FL-396,Garuda,Jakarta,Melbourne,"6,8",300,290,Tepat Waktu
+FL-397,Lion Air,Makassar,Jakarta,"2,2",215,205,Tepat Waktu
+FL-398,AirAsia,Surabaya,Kuala Lumpur,"2,5",180,158,Tepat Waktu
+FL-399,Citilink,Medan,Batam,"1,1",180,172,Tepat Waktu
+FL-400,Batik Air,Jakarta,Taipei,"5,2",180,170,Dibatalkan
+FL-401,Japan Airlines,Denpasar,Tokyo,"7,8",300,280,Tepat Waktu
+FL-402,Turkish Airlines,Jakarta,Istanbul,"12,2",350,340,Delay
+FL-403,Garuda,Jakarta,Sydney,"7,1",300,288,Tepat Waktu
+FL-404,Lion Air,Surabaya,Jakarta,"1,5",215,195,Tepat Waktu
+FL-405,AirAsia,Medan,Jakarta,"2,2",180,170,Tepat Waktu
+FL-406,Citilink,Jakarta,Bali,"1,9",180,174,Tepat Waktu
+FL-407,Batik Air,Surabaya,Makassar,"1,6",180,162,Delay
+FL-408,Qatar Airways,Jakarta,Doha,"8,5",350,348,Tepat Waktu
+FL-409,Emirates,Jakarta,Dubai,"8,6",350,325,Tepat Waktu
+FL-410,Scoot,Surabaya,Singapore,"2,2",180,155,Tepat Waktu
